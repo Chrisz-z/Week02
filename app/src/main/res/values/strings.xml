@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">Week02</string>
+    <string name="button1">login</string>
+    <string name="button2">Cancel</string>
     <string name="message">Welcome to Android!</string>
     <string name="text2">Large Text</string>
     <string name="regi">Registration Form</string>
     <string name="welcome">Welcome to Adventure Learning Club!</string>
-    <string name="name">Full Name</string>
+    <string name="Fname">Full Name</string>
+    <string name="name">Name:</string>
+    <string name="pass">Password:</string>
     <string name="FN">First Name</string>
     <string name="LN">Last Name</string>
     <string name="gender">Gender</string>
