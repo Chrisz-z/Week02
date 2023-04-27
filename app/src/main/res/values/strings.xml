@@ -2,6 +2,8 @@
     <string name="app_name">Week02</string>
     <string name="button1">login</string>
     <string name="button2">Cancel</string>
+    <string name="button3">Button 1</string>
+    <string name="button4">Button 2</string>
     <string name="message">Welcome to Android!</string>
     <string name="text2">Large Text</string>
     <string name="regi">Registration Form</string>
