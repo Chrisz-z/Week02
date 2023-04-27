@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Week02</string>
+    <string name="message">Welcome to Android!</string>
+    <string name="text2">Large Text</string>
+    <string name="regi">Registration Form</string>
+    <string name="welcome">Welcome to Adventure Learning Club!</string>
+    <string name="name">Full Name</string>
+    <string name="FN">First Name</string>
+    <string name="LN">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="gender1">Male</string>
+    <string name="gender2">Female</string>
+    <string name="ID">Student ID</string>
+    <string name="sch">School</string>
+    <string name="mail">E-mail</string>
+    <string name="ph">Phone</string>
+    <string name="regi2">Register</string>
 </resources>
